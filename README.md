@@ -322,17 +322,7 @@ Limited time? Start with business-critical, customer-data-facing apps and finish
 
 ---
 
-## 12. Webinar caveats
-
-- "140 billion people" was a slip; India is about 1.4 billion.
-- The qubit numbers quoted were inaccurate (see section 5).
-- A sample score of 64.95% with 306 of 1,729 controls failing does not equal simple division; scores are often weighted.
-- Consent management was said to be out of the tool's scope; treat it as a separate system.
-- March 2027 is a recommended target, not a statutory date.
-
----
-
-## 13. Glossary
+## 12. Glossary
 
 | Term | Plain meaning |
 |---|---|
